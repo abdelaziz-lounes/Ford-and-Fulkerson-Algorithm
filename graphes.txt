@@ -1,0 +1,15 @@
+S A 5
+S C 10
+S E 15
+A B 5
+A K 10
+C K 5
+C F 8
+E F 15
+B G 8
+K D 5
+K E 7
+K G 6
+F H 20
+H D 25
+G D 5
